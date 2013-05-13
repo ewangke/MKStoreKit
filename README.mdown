@@ -1,4 +1,4 @@
-##This is a repo without VerificationController.h/.m and is App Store safe.
+###This is a repo without VerificationController.h/.m and is App Store safe.
 VerificationController call UIDevice's uniqueIdentifier method and will lead to rejection by Apple automatically.
 
 #MKStoreKit
